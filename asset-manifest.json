@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Marketing-Agency/static/css/main.d3e8a03f.css",
+    "main.css": "/Marketing-Agency/static/css/main.bd9c3a2a.css",
     "main.js": "/Marketing-Agency/static/js/main.59746b18.js",
     "static/media/color-sharp.png": "/Marketing-Agency/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Marketing-Agency/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -25,11 +25,11 @@
     "index.html": "/Marketing-Agency/index.html",
     "static/media/nav-icon1.svg": "/Marketing-Agency/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/Marketing-Agency/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.d3e8a03f.css.map": "/Marketing-Agency/static/css/main.d3e8a03f.css.map",
+    "main.bd9c3a2a.css.map": "/Marketing-Agency/static/css/main.bd9c3a2a.css.map",
     "main.59746b18.js.map": "/Marketing-Agency/static/js/main.59746b18.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3e8a03f.css",
+    "static/css/main.bd9c3a2a.css",
     "static/js/main.59746b18.js"
   ]
 }
